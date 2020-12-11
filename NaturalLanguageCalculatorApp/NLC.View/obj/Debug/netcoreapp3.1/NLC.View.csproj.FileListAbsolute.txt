@@ -1,0 +1,16 @@
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\bin\Debug\netcoreapp3.1\NLC.View.exe
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\bin\Debug\netcoreapp3.1\NLC.View.deps.json
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\bin\Debug\netcoreapp3.1\NLC.View.runtimeconfig.json
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\bin\Debug\netcoreapp3.1\NLC.View.runtimeconfig.dev.json
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\bin\Debug\netcoreapp3.1\NLC.View.dll
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\bin\Debug\netcoreapp3.1\NLC.View.pdb
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\obj\Debug\netcoreapp3.1\NLC.View.csprojAssemblyReference.cache
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\obj\Debug\netcoreapp3.1\NLC.View.AssemblyInfoInputs.cache
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\obj\Debug\netcoreapp3.1\NLC.View.AssemblyInfo.cs
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\obj\Debug\netcoreapp3.1\NLC.View.csproj.CoreCompileInputs.cache
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\obj\Debug\netcoreapp3.1\NLC.View.dll
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\obj\Debug\netcoreapp3.1\NLC.View.pdb
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\obj\Debug\netcoreapp3.1\NLC.View.genruntimeconfig.cache
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\bin\Debug\netcoreapp3.1\NLC.Logic.dll
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\bin\Debug\netcoreapp3.1\NLC.Logic.pdb
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.View\obj\Debug\netcoreapp3.1\NLC.View.csproj.CopyComplete

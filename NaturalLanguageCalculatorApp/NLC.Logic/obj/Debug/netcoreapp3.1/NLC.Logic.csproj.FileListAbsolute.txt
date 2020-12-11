@@ -1,0 +1,9 @@
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\bin\Debug\netcoreapp3.1\NLC.Logic.deps.json
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\bin\Debug\netcoreapp3.1\NLC.Logic.dll
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\bin\Debug\netcoreapp3.1\NLC.Logic.pdb
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\obj\Debug\netcoreapp3.1\NLC.Logic.csprojAssemblyReference.cache
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\obj\Debug\netcoreapp3.1\NLC.Logic.AssemblyInfoInputs.cache
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\obj\Debug\netcoreapp3.1\NLC.Logic.AssemblyInfo.cs
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\obj\Debug\netcoreapp3.1\NLC.Logic.csproj.CoreCompileInputs.cache
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\obj\Debug\netcoreapp3.1\NLC.Logic.dll
+C:\Programming\Natural-Language-Calculator\NaturalLanguageCalculatorApp\NLC.Logic\obj\Debug\netcoreapp3.1\NLC.Logic.pdb
